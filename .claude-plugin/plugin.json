@@ -1,0 +1,10 @@
+{
+  "name": "we-regret-to-inform-you",
+  "description": "Claude reads your resume against one real job post the way the people who reject you do, shows exactly why it gets rejected, rewrites it with only your real experience, and gives you a Word file.",
+  "version": "1.0.0",
+  "author": {"name": "Joe Brunner"},
+  "homepage": "https://github.com/JoeBrunner/we-regret-to-inform-you",
+  "repository": "https://github.com/JoeBrunner/we-regret-to-inform-you",
+  "license": "MIT",
+  "keywords": ["claude-code", "skill", "resume", "job-search", "hiring", "docx"]
+}

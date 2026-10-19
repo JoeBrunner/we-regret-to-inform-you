@@ -1,0 +1,8 @@
+{
+"J1": {"result": "PASS", "why": "The Word file has one column, no tables, text boxes or images, and the contact line sits in the body, not a header.", "evidence": "Chicago, IL | (312) 555-0148 | morgan.ellis@example.com"},
+"J2": {"result": "FAIL", "why": "The top of the resume names a different job and never mentions customer success or the posted title (Customer Success Manager, Scale).", "evidence": "Dedicated and hardworking customer service professional with five years of experience."},
+"J3": {"result": "FAIL", "why": "US work eligibility is not shown; AI and automation tools, technical topics, data-driven work, and relationship building are only partly shown. More than one partly plus a not shown.", "evidence": "Helped test suggested replies from the support chatbot and reported answers that were confusing or wrong."},
+"J4": {"result": "FAIL", "why": "The summary could fit any job and says nothing about customer success, onboarding, adoption or AI.", "evidence": "Looking for an opportunity to grow with a company and use my skills to make a difference."},
+"J5": {"result": "FAIL", "why": "The most relevant lines (contacting customers who stopped using the product, the weekly new-customer session, the chatbot testing) sit in bullets 4 to 7 of the first role, below the first two bullets.", "evidence": "Review a spreadsheet of customer logins and contact customers who have stopped using the system."},
+"J6": {"result": "FAIL", "why": "Only about two of the post's key terms appear (chatbot, product team); onboarding, usage, integrations, customer education and customer success are not named.", "evidence": "Helped test suggested replies from the support chatbot"}
+}

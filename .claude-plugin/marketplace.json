@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "we-regret-to-inform-you",
+  "description": "The We Regret To Inform You skill for Claude Code",
+  "owner": {"name": "Joe Brunner"},
+  "plugins": [
+    {
+      "name": "we-regret-to-inform-you",
+      "description": "See why your resume gets rejected for one job, then get a truthful rewrite, a before-and-after score and a Word file.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/JoeBrunner/we-regret-to-inform-you"
+    }
+  ]
+}
